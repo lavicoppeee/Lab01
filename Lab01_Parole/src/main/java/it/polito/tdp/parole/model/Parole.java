@@ -15,6 +15,10 @@ public class Parole {
 		//TODO
 		this.paroleL.add(p);
 	}
+	public void removeParola(String p) {
+		//TODO
+		this.paroleL.remove(p);
+	}
 	
 	public List<String> getElenco() {
 		//TODO
